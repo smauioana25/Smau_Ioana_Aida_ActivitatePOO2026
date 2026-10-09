@@ -49,7 +49,6 @@ void modificaNrEtaje1(int nouNrEtaje, Cladire& c) //aici se face modificare prin
 	c.nr_etaje = nouNrEtaje;
 
 
-
 }
 void main()
 {
