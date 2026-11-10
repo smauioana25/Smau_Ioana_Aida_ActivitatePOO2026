@@ -144,7 +144,7 @@ public:
 
 	bool operator==(Prajitura prajitura)//operator binar
 	{
-		if (strcmp(this->denumire, prajitura.denumire) != 0);
+		if (strcmp(this->denumire, prajitura.denumire) != 0)
 		return false;
 		if (this->cantitate != prajitura.cantitate)
 			return false;
